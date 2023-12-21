@@ -1,0 +1,22 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+li{
+    list-style-type:circle;
+}
+a{
+    color:red;
+    text-decoration: none;
+}
+a:hover{
+    color:blue;
+    font-weight: bold;
+    text-decoration:underline;
+}
+h1{
+    color: darkred;
+}
+img{
+    aspect-ratio: 1/1;
+}
